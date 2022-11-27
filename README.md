@@ -13,7 +13,11 @@
 > Good luck!
 
 ## Project summary (<300 words)
-Describe the overall aim of your project and what you have achieved.
+> The aim of this project is to examine different ways to obtain overproduction of undecylprodigiosin in S. coelicolor in silico using an already existing genome-scale
+> metabolic model (GSM) In this report, we use different cell engineering strategies for optimazing the production of undecylprodigiosin in S. coelicolor by using 
+> computational methods to modify the GSM model, including including media optimization, alternative carbon sources, upregulation and downregulation of specific genes,
+> gene knockout, and co-factor swapping. 
+
 
 ## Project overview
 Describe how your project is organized ...
