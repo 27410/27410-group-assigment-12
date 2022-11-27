@@ -13,18 +13,22 @@
 > Good luck!
 
 ## Project summary (<300 words)
-> The aim of this project is to examine different ways to obtain overproduction of undecylprodigiosin in S. coelicolor in silico using an already existing genome-scale
-> metabolic model (GSM). In this report, we use different cell engineering strategies for optimazing the production of undecylprodigiosin in S. coelicolor by using 
-> computational methods to modify the GSM model, including media optimization, alternative carbon sources, upregulation and downregulation of specific genes,
-> gene knockout, and co-factor swapping. 
+The aim of this project is to examine different ways to obtain overproduction of undecylprodigiosin in S. coelicolor in silico using an already existing genome-scale
+metabolic model (GSM). In this report, we use different cell engineering strategies for optimazing the production of undecylprodigiosin in S. coelicolor by using 
+computational methods to modify the GSM model, including media optimization, alternative carbon sources, upregulation and downregulation of specific genes,
+gene knockout, and co-factor swapping. 
 
 
 ## Project overview 
-> Our project is organized into different folders and notebooks.
-> Our analysis of the GSM is in the numbered notebooks in the main folder.
-> The report is in the Report.ipynb notebook and contains links to the analysis notebooks in the main folder.
-> Pictures used in the report are stored in the folder pictures.
-> The models are found in the models folder
+Our project is organized into different folders and notebooks.
+
+Our analysis of the GSM is in the numbered notebooks in the main folder.
+
+The report is in the Report.ipynb notebook and contains links to the analysis notebooks in the main folder.
+
+Pictures used in the report are stored in the folder pictures.
+
+The models are found in the models folder.
 
 
 
