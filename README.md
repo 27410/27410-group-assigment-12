@@ -12,7 +12,7 @@
 > which I would encourage you to do – up to you. A lot of good science happens out in the open these days.
 > Good luck!
 
-## Project summary (<300 words)
+## Project summary
 The aim of this project is to examine different ways to obtain overproduction of undecylprodigiosin in S. coelicolor in silico using an already existing genome-scale
 metabolic model (GSM). In this report, we use different cell engineering strategies for optimazing the production of undecylprodigiosin in S. coelicolor by using 
 computational methods to modify the GSM model, including media optimization, alternative carbon sources, upregulation and downregulation of specific genes,
