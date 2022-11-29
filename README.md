@@ -22,7 +22,7 @@ Our project is organized into different folders and notebooks.
 
 Our analysis of the GSM is in the numbered notebooks in the main folder.
 
-The report is in the Report.ipynb notebook and contains links to the analysis notebooks in the main folder.
+The report is in the Report.ipynb notebook and contains links to the analysis notebooks in the Notebooks folder.
 
 Pictures used in the report are stored in the folder pictures.
 
