@@ -20,7 +20,7 @@ gene knockout, and co-factor swapping.
 ## Project overview 
 Our project is organized into different folders and notebooks.
 
-Our analysis of the GSM is in the numbered notebooks in the main folder.
+Our analysis of the GSM is in the numbered notebooks in the Notebooks folder.
 
 The report is in the Report.ipynb notebook and contains links to the analysis notebooks in the Notebooks folder.
 
