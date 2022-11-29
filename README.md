@@ -13,23 +13,22 @@ gene knockout, and co-factor swapping.
 ## Project overview 
 Our project is organized into different folders and notebooks. 
 
-<<<<<<< HEAD
-> Our analysis of the GSM is found in "Notebooks" folder.
 
-> The report is in the Report.ipynb notebook and contains links to the analysis notebooks in the main folder.
+Our analysis of the GSM is found in "Notebooks" folder.
 
-> Pictures used in the report are stored in the "Figures" folder.
-=======
+The report is in the Report.ipynb notebook and contains links to the analysis notebooks in the main folder.
+
+Pictures used in the report are stored in the "Figures" folder.
+
 Our analysis of the GSM is in the numbered notebooks in the Notebooks folder.
 
 The report is in the Report.ipynb notebook and contains links to the analysis notebooks in the Notebooks folder.
 
 Pictures used in the report are stored in the folder Figures.
->>>>>>> 28166bdd3b02299ab2bfb3fced11e931a29a9695
 
-> The models are found in the "Models" folder.
+The models are found in the "Models" folder.
 
-> Requirements.txt lists all Python libraries that our notebooks depend on. The requirements should be runned like: pip install -r requirements.txt
+Requirements.txt lists all Python libraries that our notebooks depend on. The requirements should be runned like: pip install -r requirements.txt
 
 
 
