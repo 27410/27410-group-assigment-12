@@ -14,22 +14,13 @@ gene knockout, and co-factor swapping.
 Our project is organized into different folders and notebooks. 
 
 
-Our analysis of the GSM is found in "Notebooks" folder.
+Our analysis of the GSM can be found in the numbered jupyter notebooks in the "Notebooks" directory.
 
-The report is in the Report.ipynb notebook and contains links to the analysis notebooks in the main folder.
+The report is in the Report.ipynb notebook and contains links to the analysis notebooks in the "Notebooks" directory.
 
-Pictures used in the report are stored in the "Figures" folder.
+Pictures used in the report are stored in the "Figures" directory.
 
-Our analysis of the GSM is in the numbered notebooks in the Notebooks folder.
+The GSM models for Streptomyces coelicolor can be found in the "Models" directory.
 
-The report is in the Report.ipynb notebook and contains links to the analysis notebooks in the Notebooks folder.
-
-Pictures used in the report are stored in the folder Figures.
-
-The models are found in the "Models" folder.
-
-Requirements.txt lists all Python libraries that our notebooks depend on. The requirements should be runned like: pip install -r requirements.txt
-
-
-
-
+Requirements.txt lists all Python libraries that our notebooks depend on. 
+The requirements can be installed with the command: pip install -r requirements.txt
